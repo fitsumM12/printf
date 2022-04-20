@@ -1,0 +1,5 @@
+#this is a git ignore file which used to ignore unwanted file to be push into github
+main.c
+*.txt
+*#
+*~
